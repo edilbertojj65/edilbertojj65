@@ -2,6 +2,7 @@
 ### Hi there 👋
 - 🔭 I’m fine and getter better making App ...
 -  🌱 I’m currently learning ...
+-  <img src="{https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white}" />
 
 <!--
 **edilbertojj65/edilbertojj65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
