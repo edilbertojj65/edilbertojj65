@@ -8,8 +8,15 @@
 -  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 -  
 - 📫 How to reach me: ... 
+- <p align='center'>
 - <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </p>
+  
+  <p align='center'>
+-  <a href="https://www.linkedin.com/in/edilberto-jurado-28985533/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+- </p>
 - 
 - <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edilbertojj65" />
 - <img src="https://github-readme-stats.vercel.app/api?username=edilbertojj65" />
