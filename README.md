@@ -1,7 +1,10 @@
 <h1 align='center'>
  Hi there 👋 I'm Edilberto 👨‍
-</h1>
+ 
+
+<h1 align='center'>
  🔭 I’m fine and getter better making App ...
+ <h1 align='center'>
  🌱 I’m currently learning ...
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
