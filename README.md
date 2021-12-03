@@ -14,7 +14,7 @@
   
   </p>
   
-  📫 How to reach me: ... 
+  📫 How to reach me: ... <a href='mailto:edilbertojj65@gmail.com'>mailto:edilbertojj65@gmail.com</a>
   <p align='left'>
    <a href="https://www.linkedin.com/in/edilberto-jurado-28985533/">
      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
